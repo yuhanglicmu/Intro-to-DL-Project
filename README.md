@@ -41,4 +41,5 @@ How to use the code:
 3. Put the data under the directory in config.yaml
 4. Run the train.sh file in the command window, edit it according to your cluster
 
-
+The log file for tensor board and .pth file cannot be uploaded because of the large size.
+The .out file can be viewed to check the trainging process. 
