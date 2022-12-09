@@ -3,7 +3,7 @@ HiFi GAN training and implementation according to
 https://arxiv.org/abs/2006.05694
 
 **Structure**
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/yuhanglicmu/Intro-to-DL-Project/blob/main/HiFi-GAN.png)
 
 **Generator G:**
 
