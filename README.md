@@ -1,4 +1,4 @@
-# Intro-to-DL-Project-
+# Intro-to-DL-Project
 HiFi GAN training and implementation according to
 https://arxiv.org/abs/2006.05694
 
